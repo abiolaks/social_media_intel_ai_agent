@@ -62,37 +62,36 @@ OPENAI_API_KEY = "your_openai_api_key"
 bash
 streamlit run app.py
 ```
-🧠 AI Models Used
-➤ distilbert-base-uncased-finetuned-sst-2-english
-Transformer model trained for binary sentiment classification.
-
+## 🧠 AI Models Used
+### ➤ distilbert-base-uncased-finetuned-sst-2-english
+- Transformer model trained for binary sentiment classification.
 Offers strong accuracy with low latency, suitable for real-time apps.
 
-➤ GPT-4 (via OpenAI API)
-Provides natural language summaries of trends and engagement data.
+### ➤ GPT-4 (via OpenAI API)
+- Provides natural language summaries of trends and engagement data.
 
-Adds strategic layer of intelligence beyond raw numbers.
+- Adds strategic layer of intelligence beyond raw numbers.
 
-💼 Business Use Cases
-📢 Marketing: Identify which messaging resonates and why.
+### 💼 Business Use Cases
+- 📢 Marketing: Identify which messaging resonates and why.
 
-🧲 Recruitment: Track performance of employer branding content.
+- 🧲 Recruitment: Track performance of employer branding content.
 
-🧠 Leadership: Stay informed on real-time employee/public sentiment.
+- 🧠 Leadership: Stay informed on real-time employee/public sentiment.
 
-☁️ Streamlit Cloud Deployment
-Push project to GitHub.
+### ☁️ Streamlit Cloud Deployment
+- Push project to GitHub.
 
-Go to Streamlit Cloud → New App.
+- Go to Streamlit Cloud → New App.
 
-Choose repo and entry point: app.py.
+- Choose repo and entry point: app.py.
 
-Add OPENAI_API_KEY in Secrets.
+- Add OPENAI_API_KEY in Secrets.
 
 Deploy and share the live link with stakeholders.
 
 📄 License
 MIT License
 
-✨ Author
-Built with ❤️ by [abiolak] 
+### ✨ Author
+- Built with ❤️ by [abiolaks] 
