@@ -17,7 +17,7 @@ This is an AI-powered Streamlit application that transforms LinkedIn post engage
 ---
 
 ## 📂 Project Structure
-
+```
 linkedin_insights_demo/ 
 ├── app.py # Main Streamlit app 
 ├── components/ 
@@ -31,6 +31,7 @@ linkedin_insights_demo/
 ├── requirements.txt 
 └── env.yml
 └── README.md
+```
 
 ## 🛠 Setup Instructions
 
