@@ -1,8 +1,5 @@
 # Social Media intelligence Ai Agent
 
-
-# Create content for the README and documentation
-readme_content = """
 # 🤖 LinkedIn Engagement Intelligence Dashboard
 
 This is an AI-powered Streamlit application that transforms LinkedIn post engagement into actionable business insights. It combines transformer-based sentiment analysis with GPT-4 powered summarization to deliver real-time visibility into how audiences interact with your posts.
